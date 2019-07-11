@@ -40,4 +40,4 @@ app.use((req, res, next) => {
 // tu uruchamiamy serwer
 server.listen(process.env.PORT || 3000);
 
-console.log('serwer started');
+console.log('server started');
